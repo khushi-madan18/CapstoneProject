@@ -57,7 +57,7 @@ body{
 }
 
 
-img{
+.img0{
     width: 1334px;
     height: 672px;
     border-radius: 22px;
@@ -218,3 +218,64 @@ h3{
 .up span{
     padding-left: 4px;
 }
+.images{
+    padding: 24px 48px;
+}
+.grid1{
+    display: flex;
+    padding-top: 24px;
+    padding-bottom: 68px;
+    justify-content: space-between;
+    
+    
+}
+
+.img5{
+    width: 648px;
+    height: 664px;
+    /* border: 1px solid white; */
+    padding-right: 40px;
+}
+
+.img6{
+    width: 648px;
+    height: 443px;
+    /* border: 1px solid white; */
+    margin-left: 20px;
+}
+
+.grid2{
+    display: flex;
+    padding-top: 48px;
+    padding-bottom: 48px;
+
+    
+}
+
+.img7{
+    width: 1008px;
+    height: 672px;
+    padding: 24px 0;
+    align-items: left;
+}
+
+.grid3{
+    display: flex;
+    padding-top: 68px;
+    
+}
+
+.img8{
+    width: 648px;
+    height: 443px;
+
+}
+
+.img9{
+    width: 648px;
+    height: 648px;
+}
+/* 
+@media screen and (min-width: 640px) and (max-width: 1440px){
+    body
+} */
