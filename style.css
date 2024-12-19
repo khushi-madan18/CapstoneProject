@@ -77,7 +77,7 @@ h3{
 }
 .Projects{
     display: flex;
-    padding: 48px 98px;
+    padding: 40px 98px;
 }
 .project{
     color: white;
@@ -232,9 +232,9 @@ h3{
 
 .img5{
     width: 648px;
-    height: 664px;
+    height: 648px;
     /* border: 1px solid white; */
-    padding-right: 40px;
+    padding-right: 172px;
 }
 
 .img6{
@@ -255,8 +255,8 @@ h3{
 .img7{
     width: 1008px;
     height: 672px;
-    padding: 24px 0;
-    align-items: left;
+    padding: 32px 260px;
+    
 }
 
 .grid3{
@@ -275,7 +275,44 @@ h3{
     width: 648px;
     height: 648px;
 }
-/* 
-@media screen and (min-width: 640px) and (max-width: 1440px){
-    body
-} */
+.footer{
+    padding-top: 200px;
+    padding-left: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.c{
+    height: 15px;
+    width: 15px;
+    font-size: 12px;
+    border-radius: 50%;
+    border: 1px solid gray;
+    color: gray;
+    text-align: center;
+    margin-right: 4px;
+    margin-top: 8px;
+    font-family: "Chivo", sans-serif;
+    font-optical-sizing: auto;
+    
+    
+}
+.left{
+    color: gray;
+    display: flex;
+    margin-right: 5px;
+    font-size: 28px;
+    font-family: "Chivo", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.cont{
+    color: white;
+    border: 1px solid black;
+    font-family: "Chivo", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 28px;
+    padding-right: 38px;
+    
+
+}
